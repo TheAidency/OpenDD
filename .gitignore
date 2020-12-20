@@ -53,12 +53,7 @@ Plugins/*/Binaries/*
 Build/*
 
 # Ignore everything in the content folder....
-Content/*
-
-# ....except these folders.
-!Content/Maps/Development*/
-!Content/ALSV4/*/
-!Content/Characters/*/
+Content/CityPark/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
