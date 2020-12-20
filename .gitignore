@@ -56,9 +56,9 @@ Build/*
 Content/*
 
 # ....except these folders.
-!Content/Maps/Development*
-!Content/ALSV4/*
-!Content/Characters/*
+!Content/Maps/Development*/
+!Content/ALSV4/*/
+!Content/Characters/*/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
