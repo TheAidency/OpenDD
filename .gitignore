@@ -52,8 +52,14 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 
-# Ignore everything in the content folder....
+# Ignore art assets
 Content/CityPark/
+
+#Ignore Quixel assets
+
+#Ignore voiced lines
+
+#Ignore music
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
