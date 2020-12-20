@@ -54,6 +54,8 @@ Build/*
 
 # Ignore art assets
 Content/CityPark/
+Content/Bunker/
+Content/IceCool/
 
 #Ignore Quixel assets
 
