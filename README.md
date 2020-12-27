@@ -1,7 +1,7 @@
-# Spatialsurf
+# Damage Done: Not the Chosen One
 
 Damage Done: Not The Chosen One is an open source, third person action RPG developed by TheAidency using Unreal. The source code itself is provided under the MPL 2.0, but individual assets in the game are subject to different licenses as explained below. Some paid assets are required for the project in the repository to function.
-![Across the sea of space, the stars are other suns....](https://raw.githubusercontent.com/TheAidency/Spatialsurf/main/readme/Spatialsurf-Web.jpg)
+![Damage Done Logo](https://raw.githubusercontent.com/TheAidency/OpenDD/main/Meta/dd.gif)
 
 # Licensing + Credit
 
