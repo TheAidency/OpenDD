@@ -13,6 +13,6 @@ DAMAGE DONE IS RELEASED UNDER THE MPL 2.0 AND REQUIRES SOURCE CODE DISCLOSURE OF
 The game's music was created by Cameron Cluelow, better known by his artist name Kutaren. His licensing and copyright terms are available [here.](https://docs.google.com/document/d/14gNgcMxHbkaiwhuzUqabfJ-00vgj-xt0gogAyn7GLno/)
 
 # Repository requirements
-## Needs: [Fighting Animset Pro]{https://www.unrealengine.com/marketplace/en-US/product/fighting-animset-pro}
+## Needs: [Fighting Animset Pro](https://www.unrealengine.com/marketplace/en-US/product/fighting-animset-pro)
 
 
